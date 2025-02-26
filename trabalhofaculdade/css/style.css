@@ -1,0 +1,30 @@
+#content {
+    width: 400px;
+    height: 400px;
+    background-color: #d8d8d8;
+    margin: 0 auto;
+
+    display: flex; /*permite movimentar elementos*/
+    flex-direction: column;   /*forma de movimento*/
+    align-items: center; /*alinhados ao centro*/
+    justify-content: center; /*distribuição browser do espaço entre e ao redor dos conteudos*/
+}
+
+.input {
+    Width: 80%; /*Largura*/
+    height: 40px; /*Altura*/
+    margin-bottom: 10px; /*Espaçamento externo, desde inicio dos algarismos*/
+    padding: 20px;/* Espaçamento interno*/
+    box-sizing: border-box; /*onde inicia padding*/
+}
+
+#button-enter {
+    width: 80%;
+    height: 40px;
+    background-color: rgb(158, 143, 194);
+    border: solid 3px #110f1a;
+    border-radius: 10px;
+    font-weight: bold; /*Grossura texto*/   
+    color: #2e2333;
+    font-size: 18px; /*tamanho texto*/
+}
