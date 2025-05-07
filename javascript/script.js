@@ -22,4 +22,5 @@ botao.addEventListener("click", function (){
     
     console.log(nome.value);
     console.log(profissao.value);
+    console.log("FINAL");
 });
