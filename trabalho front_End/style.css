@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(47, 128, 94);
+}
+
+#nome {
+    width: 15%;
+    height: 35px;
+    border-color: gray;
+    border-radius: 12px;
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    transition: all 1s ease-in-out;
+}
+
+#profissao {
+    width: 15%;
+    height: 35px;
+    border-color: gray;
+    border-radius: 12px;
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    transition: all 1s ease-in-out;
+}
+
+#idade {
+    width: 15%;
+    height: 35px;
+    border-color: gray;
+    border-radius: 12px;
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    transition: all 1s ease-in-out;
+}
+
+#botao {
+    width: 15%;
+    height: 35px;
+    border-color: gray;
+    border-radius: 12px;
+    font-size: medium;
+    font-weight: bold;
+    transition: all 1s ease-in-out;
+}
